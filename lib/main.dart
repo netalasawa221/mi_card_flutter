@@ -38,9 +38,7 @@ class MyApp extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                Text(
-                  'Netal',
-                ),
+
                 SizedBox(
                   width: 150.0,
                   height: 20.0,
